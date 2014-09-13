@@ -1,0 +1,4 @@
+SweeterVanilla
+==============
+
+Minecraft MOD
